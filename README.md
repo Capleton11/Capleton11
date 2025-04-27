@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=0C82F7&background=FF000000&vCenter=true&repeat=false&random=false&width=650&lines=Hello+World!+I'm+Capleton+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=0C82F7&background=FF000000&vCenter=true&repeat=false&random=false&width=650&lines=Hello!+I'm+Capleton+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 
 <div align="center">
   
