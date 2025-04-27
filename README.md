@@ -56,7 +56,7 @@ I thrive on solving real-world problems - from optimizing drone operations to bu
       <h3 align="center">MPDB (Mini Project Database)</h3>
       <p align="center">
         <a href="https://github.com/Capleton11/MPDB" target="_blank">
-          <img src="https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="100%" alt="Database Animation"/>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhudjh5eHJzZTAyOXRubXI3cTc0bTNkNXk1czVhNDBiNXoweGJzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MD0svLSDeudszrNrp0/giphy.gif" width="100%" alt="Database Animation"/>
         </a>
         <p align="center">
           A NoSQL database system built from scratch with Java, Node.js, and Docker
@@ -67,7 +67,7 @@ I thrive on solving real-world problems - from optimizing drone operations to bu
       <h3 align="center">Networking Projects</h3>
       <p align="center">
         <a href="https://github.com/Capleton/NetworkingProjects" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVmMWZiNjExMDEwZTc5MDdiM2M1YjU5OTcwOWFiM2E5OGI5NGQ2ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ZGH9PVXGwXoMQLpJA0/giphy.gif" width="100%" alt="Networking Animation"/>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenMzbW92eHMxNG55c3JveWl6YXVlMzdpMDA1Mm1zNXlicmRobjFieiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KX5nwoDX97AtPvKBF6/giphy.gif" width="100%" alt="Networking Animation"/>
         </a>
         <p align="center">
           Low-level TCP/UDP protocol implementations on WSL Linux
@@ -80,7 +80,7 @@ I thrive on solving real-world problems - from optimizing drone operations to bu
       <h3 align="center">Mobile UX Design</h3>
       <p align="center">
         <a href="https://github.com/Capleton/UXDesign" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMwNjAxNzY1ZGEzODk5NjlkYTI4NzE2NTIxZDk3ZDE0MTJhZmQ1NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hUAW8jMQXSLB2iBTCM/giphy.gif" width="100%" alt="UX Design Animation"/>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhudjh5eHJzZTAyOXRubXI3cTc0bTNkNXk1czVhNDBiNXoweGJzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="UX Design Animation"/>
         </a>
         <p align="center">
           Figma wireframes for a species identification app 🌿📸
@@ -91,7 +91,7 @@ I thrive on solving real-world problems - from optimizing drone operations to bu
       <h3 align="center">Teaching & Tutoring</h3>
       <p align="center">
         <a href="https://github.com/Capleton/TeachingResources" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI5ZGIzNmYzNDJiOTI3ZWQ3MTU0ZDY0NTZhOTBkOWMxY2Q5YTY4NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jO18SawuDtNwKEqRTT/giphy.gif" width="100%" alt="Teaching Animation"/>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJka3hyMHZvaWFzeGVkMjRwbTdpcjhldTUzZTQ3NWRxMjlvaHNmdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u1WhXLjwgcXpHJBMRM/giphy.gif" width="100%" alt="Teaching Animation"/>
         </a>
         <p align="center">
           COS210 (Theoretical Computation) tutor - helping students grasp DFAs, NP-completeness, and the Halting problem
