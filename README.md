@@ -21,7 +21,7 @@ I'm a **3rd-year Computer Science student** at the University of Pretoria with a
 - 🗄️ Database Systems
 - 🔧 Scalable Backend Architecture
 
-I thrive on solving real-world problems - from optimizing drone operations to building secure digital forensic platforms.
+I thrive on solving real-world problems - from creating NoSQL Database Systems to building secure network programs.
 
 ## 🛠️ Tech Stack & Tools
 
