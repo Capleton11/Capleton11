@@ -139,7 +139,7 @@ I thrive on solving real-world problems - from creating NoSQL Database Systems t
 
 <div align="center">
   
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:capletonchapfika@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/capletonchapfika/">
