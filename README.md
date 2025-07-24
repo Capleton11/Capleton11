@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Visits Badge](https://badges.pufler.dev/visits/Capleton11/Capleton11)](https://github.com/Capleton)
+  [![Visits Badge](https://badges.pufler.dev/visits/Capleton11/Capleton11)](https://github.com/Capleton11)
   [![Years Badge](https://badges.pufler.dev/years/Capleton11)](https://github.com/Capleton11)
   [![Repos Badge](https://badges.pufler.dev/repos/Capleton11)](https://github.com/Capleton11)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/capletonchapfika/)
