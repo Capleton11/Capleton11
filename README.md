@@ -84,7 +84,7 @@
 ### 🗄️ NoSQL Database System
 **Custom Database Engine**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Capleton11&repo=nosql-database&theme=radical)](https://github.com/Capleton11/nosql-database)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=COS301-SE-2025&repo=MP6&theme=radical)](https://github.com/COS301-SE-2025/MP6)
 
 🔧 **Tech:** Java, Node.js, REST APIs  
 ⚡ **Features:** Real-time processing, optimized queries  
