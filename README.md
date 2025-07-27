@@ -1,4 +1,6 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D4FF&background=FF000000&center=true&vCenter=true&repeat=false&width=800&lines=Hello!+I'm+Capleton+Chapfika+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Computer+Science+%7C+Software+Engineer;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Capleton%20Chapfika&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Software%20Engineer%20%7C%20Teaching%20Assistant&descAlignY=55&descAlign=50"/>
+
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&background=FF000000&center=true&vCenter=true&repeat=false&width=800&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+Secure+%26+Scalable+Systems;Passionate+about+Cybersecurity+%26+Innovation" alt="Typing SVG" />
 
 <div align="center">
   
@@ -23,7 +25,7 @@
 
 **What I'm up to:**
 - 🔭 Leading DevOps for **Save 'n Bite** capstone project (food waste reduction app)
-- 👨‍🏫 Tutoring 200+ students assembly language & computer organization
+- 👨‍🏫 Teaching 200+ students assembly language & computer organization
 - 🌱 Exploring advanced **cybersecurity** concepts and **scalable architecture**
 - 🤝 Mentoring fellow CS students in theoretical computation
 
@@ -84,7 +86,8 @@
 ### 🗄️ NoSQL Database System
 **Custom Database Engine**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=COS301-SE-2025&repo=MP6&theme=radical)](https://github.com/COS301-SE-2025/MP6)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Capleton11&repo=nosql-database&theme=radical)](https://github.com/Capleton11/nosql-database)
+![Banner](https://raw.githubusercontent.com/Capleton11/assets/main/banner.png)
 
 🔧 **Tech:** Java, Node.js, REST APIs  
 ⚡ **Features:** Real-time processing, optimized queries  
