@@ -72,7 +72,7 @@
 ### 🍽️ Save 'n Bite (Capstone)
 **Food Waste Reduction Platform**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Capleton11&repo=save-n-bite&theme=radical)](https://github.com/Capleton11/save-n-bite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Capleton11&repo=save-n-bite&theme=radical)](https://github.com/COS301-SE-2025/Save-n-Bite)
 
 🔧 **Tech:** React, Django, Docker, PostgreSQL, Azure  
 🚀 **Role:** DevOps Lead & Full-Stack Developer  
