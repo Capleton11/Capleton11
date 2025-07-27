@@ -86,7 +86,7 @@
 ### 🗄️ NoSQL Database System
 **Custom Database Engine**
 
-![Banner](https://raw.githubusercontent.com/Capleton11/Capleton11/main/assets/Nosql.png)
+![Banner](https://raw.githubusercontent.com/Capleton11/Capleton11/main/assets/Nosql.jpg)
 
 🔧 **Tech:** Java, Node.js, REST APIs  
 ⚡ **Features:** Real-time processing, optimized queries  
@@ -100,7 +100,8 @@
 ### 🔗 Subscription Sharing App
 **Full-Stack Web Application**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Capleton11&repo=subscription-share&theme=radical)](https://github.com/Capleton11/subscription-share)
+
+![Banner](https://raw.githubusercontent.com/Capleton11/Capleton11/main/assets/peerpass.jpg)
 
 🔧 **Tech:** Node.js, MongoDB, React.js  
 💡 **Innovation:** Self-driven development  
@@ -112,7 +113,7 @@
 ### 🤖 Community Teaching (JCP)
 **Programming & Robotics Education**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Capleton11&repo=community-teaching&theme=radical)](https://github.com/Capleton11/community-teaching)
+![Banner](https://raw.githubusercontent.com/Capleton11/Capleton11/main/assets/JCP.png)
 
 👥 **Impact:** Taught 50+ school children  
 🎯 **Mission:** Digital literacy & STEM promotion  
