@@ -113,7 +113,7 @@
 ### 🤖 Community Teaching (JCP)
 **Programming & Robotics Education**
 
-![Banner](https://raw.githubusercontent.com/Capleton11/Capleton11/main/assets/JCP.png)
+![Banner](https://raw.githubusercontent.com/Capleton11/Capleton11/main/assets/JCPP.png)
 
 👥 **Impact:** Taught 50+ school children  
 🎯 **Mission:** Digital literacy & STEM promotion  
