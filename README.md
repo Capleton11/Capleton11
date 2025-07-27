@@ -1,160 +1,219 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=0C82F7&background=FF000000&vCenter=true&repeat=false&random=false&width=650&lines=Hello!+I'm+Capleton+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D4FF&background=FF000000&center=true&vCenter=true&repeat=false&width=800&lines=Hello!+I'm+Capleton+Chapfika+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Computer+Science+%7C+Software+Engineer;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
 
 <div align="center">
   
-  [![Visits Badge](https://badges.pufler.dev/visits/Capleton11/Capleton11)](https://github.com/Capleton11)
-  [![Years Badge](https://badges.pufler.dev/years/Capleton11)](https://github.com/Capleton11)
-  [![Repos Badge](https://badges.pufler.dev/repos/Capleton11)](https://github.com/Capleton11)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/capletonchapfika/)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:capletonchapfika@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](#)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Capleton11&color=00D4FF&style=for-the-badge)
   
 </div>
 
-<img align="right" height="270px" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" />
+---
 
-## 🧠 About Me
+## 🚀 About Me
 
-I'm a **3rd-year Computer Science student** at the University of Pretoria with a passion for:
+<img align="right" height="250px" alt="Coding GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-- 🚀 Software Engineering
-- 🌐 Networking
-- 🗄️ Database Systems
-- 🔧 Scalable Backend Architecture
+🎓 **Final-year Computer Science Student** at University of Pretoria  
+🏆 **Golden Key Honour Society Member** (Top 15% of students)  
+📚 **Teaching Assistant** for COS210 & COS284  
+🎯 **GPA:** 75%+ | Passionate about **Cybersecurity** & **Software Development**
 
-I thrive on solving real-world problems - from creating NoSQL Database Systems to building secure network programs.
+**What I'm up to:**
+- 🔭 Leading DevOps for **Save 'n Bite** capstone project (food waste reduction app)
+- 👨‍🏫 Teaching 200+ students assembly language & computer organization
+- 🌱 Exploring advanced **cybersecurity** concepts and **scalable architecture**
+- 🤝 Mentoring fellow CS students in theoretical computation
 
-## 🛠️ Tech Stack & Tools
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  
-  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-  ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-  ![TCP/IP](https://img.shields.io/badge/-TCP/IP-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  
+
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+### **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
-## 🔭 Current Projects
+---
+
+## 🏗️ Featured Projects
+
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">MPDB (Mini Project Database)</h3>
-      <p align="center">
-        <a href="https://github.com/Capleton11/MPDB" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhudjh5eHJzZTAyOXRubXI3cTc0bTNkNXk1czVhNDBiNXoweGJzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MD0svLSDeudszrNrp0/giphy.gif" width="100%" alt="Database Animation"/>
-        </a>
-        <p align="center">
-          A NoSQL database system built from scratch with Java, Node.js, and Docker
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Networking Projects</h3>
-      <p align="center">
-        <a href="https://github.com/Capleton/NetworkingProjects" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenMzbW92eHMxNG55c3JveWl6YXVlMzdpMDA1Mm1zNXlicmRobjFieiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KX5nwoDX97AtPvKBF6/giphy.gif" width="100%" alt="Networking Animation"/>
-        </a>
-        <p align="center">
-          Low-level TCP/UDP protocol implementations on WSL Linux
-        </p>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Mobile UX Design</h3>
-      <p align="center">
-        <a href="https://github.com/Capleton/UXDesign" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhudjh5eHJzZTAyOXRubXI3cTc0bTNkNXk1czVhNDBiNXoweGJzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="UX Design Animation"/>
-        </a>
-        <p align="center">
-          Figma wireframes for a species identification app 🌿📸
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Teaching & Tutoring</h3>
-      <p align="center">
-        <a href="https://github.com/Capleton/TeachingResources" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJka3hyMHZvaWFzeGVkMjRwbTdpcjhldTUzZTQ3NWRxMjlvaHNmdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u1WhXLjwgcXpHJBMRM/giphy.gif" width="100%" alt="Teaching Animation"/>
-        </a>
-        <p align="center">
-          COS210 (Theoretical Computation) tutor - helping students grasp DFAs, NP-completeness, and the Halting problem
-        </p>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🍽️ Save 'n Bite (Capstone)
+**Food Waste Reduction Platform**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Capleton11&repo=save-n-bite&theme=radical)](https://github.com/Capleton11/save-n-bite)
+
+🔧 **Tech:** React, Django, Docker, PostgreSQL, Azure  
+🚀 **Role:** DevOps Lead & Full-Stack Developer  
+📈 **Impact:** Connecting food distributors with recipients
+
+</td>
+<td width="50%">
+
+### 🗄️ NoSQL Database System
+**Custom Database Engine**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Capleton11&repo=nosql-database&theme=radical)](https://github.com/Capleton11/nosql-database)
+
+🔧 **Tech:** Java, Node.js, REST APIs  
+⚡ **Features:** Real-time processing, optimized queries  
+🎯 **Focus:** Performance & scalability
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔗 Subscription Sharing App
+**Full-Stack Web Application**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Capleton11&repo=subscription-share&theme=radical)](https://github.com/Capleton11/subscription-share)
+
+🔧 **Tech:** Node.js, MongoDB, React.js  
+💡 **Innovation:** Self-driven development  
+🎨 **UI/UX:** Modern, responsive design
+
+</td>
+<td width="50%">
+
+### 🤖 Community Teaching (JCP)
+**Programming & Robotics Education**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Capleton11&repo=community-teaching&theme=radical)](https://github.com/Capleton11/community-teaching)
+
+👥 **Impact:** Taught 50+ school children  
+🎯 **Mission:** Digital literacy & STEM promotion  
+📚 **Topics:** Basic programming, robotics basics
+
+</td>
+</tr>
 </table>
 
-## 📊 GitHub Stats
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Capleton11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capleton11&layout=compact&langs_count=7&theme=tokyonight"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Capleton11&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capleton11&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Capleton11&theme=tokyonight" alt="Capleton's GitHub streak"/>
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Capleton11&theme=radical" alt="GitHub Streak"/>
 </div>
 
-## 🏆 GitHub Trophies
+---
+
+## 🎯 Current Focus Areas
 
 <div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=Capleton11&theme=nord&column=7)
-  
+
+```mermaid
+mindmap
+  root((Capleton))
+    Cybersecurity
+      Network Security
+      Secure Coding
+      Penetration Testing
+    Software Development
+      Full-Stack Apps
+      Scalable Architecture
+      DevOps Practices
+    Teaching & Mentoring
+      Assembly Language
+      Theoretical CS
+      Community Outreach
+    Academic Excellence
+      Algorithm Design
+      Complexity Analysis
+      Research Projects
+```
+
 </div>
 
-## 📌 Interests
+---
+
+## 🏆 Achievements & Recognition
 
 <div align="center">
-  
-  ![Networking](https://img.shields.io/badge/-Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
-  ![Databases](https://img.shields.io/badge/-Databases-4479A1?style=for-the-badge&logo=MongoDB&logoColor=white)
-  ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF0000?style=for-the-badge&logo=shieldsdotio&logoColor=white)
-  ![Entrepreneurship](https://img.shields.io/badge/-Entrepreneurship-FF6C37?style=for-the-badge&logo=producthunt&logoColor=white)
-  
+
+| 🏅 Achievement | 📅 Year | 🏛️ Institution |
+|---|---|---|
+| **Golden Key Honour Society** | 2024 | University of Pretoria |
+| **Top 15% Academic Performance** | 2023-2025 | EBIT Faculty, UP |
+| **Teaching Assistant (COS210)** | 2025 | Computer Science Dept |
+| **Teaching Assistant (COS284)** | 2025 | Computer Science Dept |
+| **Community Outreach Leader** | 2024 | JCP Program |
+
 </div>
 
-## 📫 Connect With Me
+---
+
+## 💼 Professional Experience
+
+### 🎓 Computer Science Teaching Assistant
+**University of Pretoria** | *Feb 2025 - Present*
+
+- **COS210:** Mentoring students in theoretical computer science (automata theory, complexity analysis)
+- **COS284:** Supporting 200+ students in assembly language programming & computer organization
+- Conducted interactive sessions on Turing machines, NP-completeness, and algorithmic principles
+
+### 🤝 Community Educator
+**Joint Community Project (JCP)** | *Jan 2024 - Nov 2024*
+
+- Taught programming fundamentals and robotics to underserved school children
+- Promoted digital literacy and STEM career awareness
+- Developed age-appropriate curriculum for diverse learning needs
+
+---
+
+## 🌟 Let's Connect & Collaborate!
 
 <div align="center">
-  
-  <a href="mailto:capletonchapfika@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/capletonchapfika/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
-  </a>
-  
+
+**Open to opportunities in:**
+- 🔐 **Cybersecurity** roles (SOC analyst, security engineer)
+- 💻 **Software Development** (full-stack, backend, DevOps)
+- 🎓 **Research Collaborations** in computer science
+- 🚀 **Startup Projects** and innovative tech solutions
+
+---
+
+*"Building secure, scalable systems while empowering the next generation of developers"* 🚀
+
 </div>
 
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Capleton11/count.svg)
-  
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
