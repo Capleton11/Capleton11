@@ -86,7 +86,7 @@
 ### 🗄️ NoSQL Database System
 **Custom Database Engine**
 
-![Banner](https://github.com/Capleton11/assets/Nosql.png)
+![Banner]([https://github.com/Capleton11/assets/Nosql.png](https://github.com/Capleton11/Capleton11/blob/main/assets/Nosql.png))
 
 🔧 **Tech:** Java, Node.js, REST APIs  
 ⚡ **Features:** Real-time processing, optimized queries  
