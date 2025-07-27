@@ -25,7 +25,6 @@
 
 **What I'm up to:**
 - 🔭 Leading DevOps for **Save 'n Bite** capstone project (food waste reduction app)
-- 👨‍🏫 Teaching 200+ students assembly language & computer organization
 - 🌱 Exploring advanced **cybersecurity** concepts and **scalable architecture**
 - 🤝 Mentoring fellow CS students in theoretical computation
 
