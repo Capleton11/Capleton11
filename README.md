@@ -14,23 +14,23 @@
 
 ---
 
-## 🚀 About Me
+## <img width="30" height="30" src="https://img.icons8.com/ios/50/rocket--v1.png" alt="rocket--v1"/> About Me
 
 <img align="right" height="250px" alt="Coding GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-🎓 **Final-year Computer Science Student** at University of Pretoria  
-🏆 **Golden Key Honour Society Member** (Top 15% of students)  
-📚 **Teaching Assistant** for COS210 & COS284  
-🎯 **GPA:** 75%+ | Passionate about **Cybersecurity** & **Software Development**
+- **Final-year Computer Science Student** at University of Pretoria  
+- **Golden Key Honour Society Member** (Top 15% of students)  
+- **Teaching Assistant** for COS210 & COS284  
+-  **GPA:** 75%+ | Passionate about **Cybersecurity** & **Software Development**
 
 **What I'm up to:**
-- 🔭 Leading DevOps for **Save 'n Bite** capstone project (food waste reduction app)
-- 🌱 Exploring advanced **cybersecurity** concepts and **scalable architecture**
-- 🤝 Mentoring fellow CS students in theoretical computation
+-  Leading DevOps for **Save 'n Bite** capstone project (food waste reduction app)
+-  Exploring advanced **cybersecurity** concepts and **scalable architecture**
+-  Mentoring fellow CS students in theoretical computation
 
 ---
 
-## 🛠️ Tech Arsenal
+## <img width="30" height="30" src="https://img.icons8.com/ios/50/maintenance--v1.png" alt="maintenance--v1"/> Tech Arsenal
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 🏗️ Featured Projects
+## <img width="30" height="30" src="https://img.icons8.com/external-flaticons-lineal-flat-icons/64/external-featured-signaling-and-labels-flaticons-lineal-flat-icons.png" alt="external-featured-signaling-and-labels-flaticons-lineal-flat-icons"/> Featured Projects
 
 <div align="center">
 
@@ -75,9 +75,9 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=COS301-SE-2025&repo=Save-n-bite&theme=radical)](https://github.com/COS301-SE-2025/Save-n-Bite)
 
-🔧 **Tech:** React, Django, Docker, PostgreSQL, Azure  
-🚀 **Role:** DevOps Lead & Full-Stack Developer  
-📈 **Impact:** Connecting food distributors with recipients
+- **Tech:** React, Django, Docker, PostgreSQL, Azure  
+- **Role:** DevOps Lead & Full-Stack Developer  
+- **Impact:** Connecting food distributors with recipients
 
 </td>
 <td width="50%">
@@ -87,9 +87,9 @@
 
 ![Banner](https://raw.githubusercontent.com/Capleton11/Capleton11/main/assets/Nosql.jpg)
 
-🔧 **Tech:** Java, Node.js, REST APIs  
-⚡ **Features:** Real-time processing, optimized queries  
-🎯 **Focus:** Performance & scalability
+- **Tech:** Java, Node.js, REST APIs  
+- **Features:** Real-time processing, optimized queries  
+- **Focus:** Performance & scalability
 
 </td>
 </tr>
@@ -102,21 +102,21 @@
 
 ![Banner](https://raw.githubusercontent.com/Capleton11/Capleton11/main/assets/peerpass.jpg)
 
-🔧 **Tech:** Node.js, MongoDB, React.js  
-💡 **Innovation:** Self-driven development  
-🎨 **UI/UX:** Modern, responsive design
+- **Tech:** Node.js, MongoDB, React.js  
+- **Innovation:** Self-driven development  
+- **UI/UX:** Modern, responsive design
 
 </td>
 <td width="50%">
 
-### 🤖 Community Teaching (JCP)
+### <img width="20" height="20" src="https://img.icons8.com/ios/50/share_2.png" alt="share_2"/> Community Teaching (JCP)
 **Programming & Robotics Education**
 
 ![Banner](https://raw.githubusercontent.com/Capleton11/Capleton11/main/assets/JCPP.png)
 
-👥 **Impact:** Taught 50+ school children  
-🎯 **Mission:** Digital literacy & STEM promotion  
-📚 **Topics:** Basic programming, robotics basics
+- **Impact:** Taught 50+ school children  
+- **Mission:** Digital literacy & STEM promotion  
+- **Topics:** Basic programming, robotics basics
 
 </td>
 </tr>
@@ -126,7 +126,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## <img width="20" height="20" src="https://img.icons8.com/ios/50/rebalance-portfolio.png" alt="rebalance-portfolio"/> GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Capleton11&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -139,7 +139,7 @@
 
 ---
 
-## 🎯 Current Focus Areas
+## <img width="20" height="20" src="https://img.icons8.com/ios/50/goal--v1.png" alt="goal--v1"/> Current Focus Areas
 
 <div align="center">
 
@@ -168,11 +168,11 @@ mindmap
 
 ---
 
-## 🏆 Achievements & Recognition
+## <img width="25" height="25" src="https://img.icons8.com/external-soleicons-line-amoghdesign/17/external-accomplishments-soleicons-line-vol-2-soleicons-line-amoghdesign.png" alt="external-accomplishments-soleicons-line-vol-2-soleicons-line-amoghdesign"/> Achievements & Recognition
 
 <div align="center">
 
-| 🏅 Achievement | 📅 Year | 🏛️ Institution |
+| <img width="17" height="17" src="https://img.icons8.com/external-soleicons-line-amoghdesign/17/external-accomplishments-soleicons-line-vol-2-soleicons-line-amoghdesign.png" alt="external-accomplishments-soleicons-line-vol-2-soleicons-line-amoghdesign"/> Achievement | 📅 Year | 🏛️ Institution |
 |---|---|---|
 | **Golden Key Honour Society** | 2024 | University of Pretoria |
 | **Top 15% Academic Performance** | 2023-2025 | EBIT Faculty, UP |
@@ -184,16 +184,16 @@ mindmap
 
 ---
 
-## 💼 Professional Experience
+## <img width="30" height="30" src="https://img.icons8.com/ios/50/business--v1.png" alt="business--v1"/> Professional Experience
 
-### 🎓 Computer Science Teaching Assistant
+### <img width="20" height="20" src="https://img.icons8.com/ios/50/graduation-cap.png" alt="graduation-cap"/> Computer Science Teaching Assistant
 **University of Pretoria** | *Feb 2025 - Present*
 
 - **COS210:** Mentoring students in theoretical computer science (automata theory, complexity analysis)
 - **COS284:** Supporting 200+ students in assembly language programming & computer organization
 - Conducted interactive sessions on Turing machines, NP-completeness, and algorithmic principles
 
-### 🤝 Community Educator
+### <img width="30" height="30" src="https://img.icons8.com/ios/50/share_2.png" alt="share_2"/> Community Educator
 **Joint Community Project (JCP)** | *Jan 2024 - Nov 2024*
 
 - Taught programming fundamentals and robotics to underserved school children
@@ -202,19 +202,19 @@ mindmap
 
 ---
 
-## 🌟 Let's Connect & Collaborate!
+## <img width="30" height="30" src="https://img.icons8.com/ios/50/star--v1.png" alt="star--v1"/> Let's Connect & Collaborate!
 
 <div align="center">
 
 **Open to opportunities in:**
-- 🔐 **Cybersecurity** roles (SOC analyst, security engineer)
-- 💻 **Software Development** (full-stack, backend, DevOps)
-- 🎓 **Research Collaborations** in computer science
-- 🚀 **Startup Projects** and innovative tech solutions
+-  **Cybersecurity** roles (SOC analyst, security engineer)
+-  **Software Development** (full-stack, backend, DevOps)
+-  **Research Collaborations** in computer science
+-  **Startup Projects** and innovative tech solutions
 
 ---
 
-*"Building secure, scalable systems while empowering the next generation of developers"* 🚀
+*"Building secure, scalable systems while empowering the next generation of developers"* 
 
 </div>
 
