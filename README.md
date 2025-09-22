@@ -141,7 +141,7 @@
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/goal--v1.png" alt="goal--v1"/> Current Focus Areas
 
-<div align="center">
+<div align="center" >
 
 ```mermaid
 mindmap
