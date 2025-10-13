@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Capleton%20Chapfika&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20%20Software%20Engineer%20%7C%20Teaching%20Assistant&descAlignY=55&descAlign=50"/>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&background=FF000000&center=true&vCenter=true&repeat=false&width=800&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+Secure+%26+Scalable+Systems;Passionate+about+Cybersecurity+%26+Innovation" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&background=FF000000&center=true&vCenter=true&repeat=false&width=800&lines=Welcome+to+my+GitHub+Profile!;Building+Secure+%26+Scalable+Systems;Passionate+about+Cybersecurity+%26+Innovation" alt="Typing SVG" />
 
 <div align="center">
   
